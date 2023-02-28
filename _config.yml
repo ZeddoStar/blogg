@@ -8,6 +8,7 @@ title: Start a Fucking Blog
 # Build settings
 plugins:
   - jekyll-seo-tag
+theme: midnight
 
 # Default front matter
 defaults:
